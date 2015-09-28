@@ -40,7 +40,7 @@
   ],
   "dependencies": {
     "angular": "1.x",
-    "Chart.js": "~1.0.1"
+    "chartjs": "https://github.com/kutou/Chart.js/archive/master.tar.gz"
   },
   "devDependencies": {
     "Chart.StackedBar.js": "~1.0.1",
